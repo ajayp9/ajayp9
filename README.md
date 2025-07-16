@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1708269219~exp=1708269819~hmac=f80a265b86f980407df34270e0f9d39c5a6e7fb6d35d420cabbe39cfbf213b18">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayp9&label=Profile%20views&color=0e75b6&style=flat" alt="ajayp9" /> </p>
