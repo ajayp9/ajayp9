@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/ajayp9)
 <h1 align="center">Hi 👋, I'm Ajay Pal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1708269219~exp=1708269819~hmac=f80a265b86f980407df34270e0f9d39c5a6e7fb6d35d420cabbe39cfbf213b18">
