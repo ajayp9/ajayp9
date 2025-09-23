@@ -1,4 +1,4 @@
-[![MasterHead]([https://t4.ftcdn.net/jpg/02/25/22/25/240_F_225222576_djcIeK4pWZHKZwsBnXgWoUFHxxZgPZ9s.jpg](https://as1.ftcdn.net/v2/jpg/04/65/03/22/1000_F_465032206_ZV0dXGBLiQxQrSI0GvhihJKFFNXKDurZ.jpg))](https://github.com/ajayp9)
+[![MasterHead](https://t3.ftcdn.net/jpg/04/99/35/58/240_F_499355847_wDiYFZHBhZ2hNrmCcAyZkMtAPSoa07ap.jpg)](https://github.com/ajayp9)
 <h1 align="center">Hi 👋, I'm Ajay Pal</h1>
 <h3 align="center">A passionate Full stack developer from India. With a cup of coffee and my laptop, I aim to bring positive change to the world through innovative tech solutions. Let's create something amazing together! 🚀💻✨</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?w=740&t=st=1708269219~exp=1708269819~hmac=f80a265b86f980407df34270e0f9d39c5a6e7fb6d35d420cabbe39cfbf213b18">
